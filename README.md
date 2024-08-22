@@ -22,8 +22,6 @@ Some services and helpers to provide local testing options and boost your produc
 
 ## :hammer: Project structure
 
-![project tree](./assets/tree-project.png)
-
 Here are some relevant directories and files:
 
 ### `api`
